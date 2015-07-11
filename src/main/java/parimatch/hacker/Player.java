@@ -21,12 +21,15 @@ public class Player {
 
         currentBetAmount = minProfit;
 
-        while (lossMoney != 0 && currentBetAmount * currentKof - lossMoney - currentBetAmount < minProfit) {
+        while (lossMoney != 0 && currentBetAmount * (currentKof - 1) - lossMoney < minProfit) {
             currentBetAmount++;
         }
 
         money -= currentBetAmount;
         if (money < 0) {
+            System.out.println("Loss: " + lossMoney);
+            System.out.println("Kof: " + kof);
+            System.out.println("Need: " + currentBetAmount);
             throw new RuntimeException("You fucking loser!");
         }
 

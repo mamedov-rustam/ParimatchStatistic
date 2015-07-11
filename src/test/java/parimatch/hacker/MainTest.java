@@ -13,21 +13,35 @@ import java.util.Scanner;
  * Created by rustam on 10.07.15.
  */
 public class MainTest {
-    public static final int START_MONEY = 400;
+    public static final int START_MONEY = 200;
     public static final int MIN_BET = 4;
-    private GamesService gamesService;
+    private static GamesService gamesService;
 
     @Before
     public void init() throws IOException {
-        String html = IOUtils.toString(new FileReader("res/34721.txt"));
+        String html = IOUtils.toString(new FileReader("res/34718.txt"));
         gamesService = new GamesService(html, null);
     }
+
     @Test
     public void totalTest() throws IOException {
-        Player player = new Player(START_MONEY, MIN_BET);
-        List<MatchWithTotal> matchWithTotalList = gamesService.findMatches("Италия");
+        for (String command : Commands.all()) {
+            try {
+                totalTest(command);
+            } catch (RuntimeException e) {
+                System.out.println(e.getMessage());
+                System.out.println("----------------------");
+            }
+        }
+    }
 
-        for(MatchWithTotal matchWithTotal : matchWithTotalList) {
+    public static void totalTest(String command) throws IOException {
+        Player player = new Player(START_MONEY, MIN_BET);
+        List<MatchWithTotal> matchWithTotalList = gamesService.findMatches(command);
+
+        System.out.println("---------- " + command + " ----------");
+
+        for (MatchWithTotal matchWithTotal : matchWithTotalList) {
             double kof = matchWithTotal.getTotalOverKof();
             player.makeBet(kof);
             if (matchWithTotal.isTotalOver()) {
@@ -48,6 +62,7 @@ public class MainTest {
             System.out.printf("  We loss: %.2f \n", Math.abs(result));
         }
         System.out.println("******************");
+        System.out.println("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-");
     }
 
     public static String ask(String ask) {

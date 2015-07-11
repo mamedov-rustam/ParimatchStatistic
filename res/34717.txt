@@ -1,0 +1,6837 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+
+	<link rel="stylesheet" href="clients/parimatch/css/default.css" type="text/css" media="screen">
+
+<link rel="stylesheet" href="clients/parimatch/css/print.css" type="text/css" media="print"><!--[if lte IE 7]><link rel="stylesheet" href="clients/parimatch/css/explorer.css" type="text/css" /><![endif]-->
+
+    <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.ui.core.min.js"></script>
+	<script type="text/javascript" src="js/s4plugins.min.js?1435218505"></script>
+	<!-- these plugins has not yet been included in the minified edition -->
+	<!-- These plugins must be minified separately -->
+	<script type="text/javascript" src="js/jquery.tablesorter.min.js"></script>
+	<script type="text/javascript" src="js/s4.min.js?1435218505"></script>
+	<script type="text/javascript" src="js/jquery.jdMenu.min.js"></script>
+	<!-- <script type="text/javascript" src="js/swfobject.js"></script> -->
+
+
+    <script type="text/javascript" src="js/jquery.ui.position.min.js"></script>
+    <link rel="stylesheet" href="sphinxstatic/jquery/jquery-ui-1.8.6.custom.css" type="text/css">
+    <script type="text/javascript" src="js/search.php?clientid=361&amp;language=ru"></script>
+<script type="text/javascript" src="js/swfobject.js"></script><script type="text/javascript" src="clients/parimatch/js/default.js"></script>
+<script type="text/javascript">
+</script>
+
+<!--[if lte IE 6]>
+<script type="text/javascript" src="js/ie6action.js"></script>
+<![endif]-->
+<script type="text/javascript">
+    $(document).ready(function() {
+	    s4 = new S4;
+s4.init( {
+	id: 2298,
+		gatracker: '',
+		language: 'ru',                iframeresize: 0,                clientid: 361},
+	1
+);
+});
+</script>
+<noscript>
+&lt;p style="position: absolute; font-size: 16px; background: white; color: #a11; padding: 1em; border-radius: 0.3em; top: 90px; left: 50%; margin-left: -350px; width: 700px; z-index: 1000;"&gt;
+JavaScript might have been turned off. Please check your browser settings in order to access and use this site.&lt;/p&gt;
+</noscript>
+
+
+<title>Cтатистика - Футбол &gt; Виртуальная Лига &gt; Virt. Football League 3  2015</title>
+ </head>
+
+
+    <body class="sport-1">
+
+
+        <div id="nodewrap" class="language-ru">
+        <div id="toivo1"><div id="toivo2"></div></div>
+        <div id="node_1"><div id="node_page-wrap" class="view"><div class="view"></div><div id="node_main-wrap" class="template_VBox view"><div class="view language_select"><div class="menu"><div class=""><ul class=""></ul></div>
+</div></div><div class="view timezone_select"><div class="menu"><div class=""><ul class=""></ul></div>
+</div></div><div class="view"></div><div class="view nav-wrapper"><div class="view"></div><div class="view"><div class="Title_Season_Name"><h2 class="title">Virt. Football League 3</h2></div><div id="node_nav-wrap-inner-2" class="menu"><div class=""><ul class="dropdown"><li class="expandable type_9_overview first"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_overview',false);"><span>Таблица</span></a></li><li class="expandable type_9_headtohead"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_headtohead',false);"><span>Очные встречи</span></a></li><li class="expandable type_9_statistics"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_statistics',false);"><span>Cтатистика</span></a></li><li class="expandable type_9_fixtures active last"><span class="underlevel-expandable-1-last"></span><a href="javascript:s4.setState('9_fixtures',false);" class="selected"><span>Календарь игр</span></a></li></ul></div>
+</div></div><div class="view"></div></div><div class="view under-main"><div class="view"><div class="template_VBox template_Full view"><div class="template_cornerbox view endless"><div class="boxtop"><div></div></div><div class="box"><div class="boxwrapper"><div class="boxcontent"><div class="template_VBox template_Full view"><div class="view season_dropdown"><div class="template_HBox menu"><div class=""><div class="sb-wrapper"><div class="sb-selectedbox"><div class="sb-current"><div class="label" style="width: 85px;">Сезон 34717</div><div class="arrow"></div></div></div><div style="clear: both;"></div><div class="sb-optionswrap" style="display: none; width: 107px;"><div class="scrollbutton up"><span class="arrowup"><span class="hide">up</span></span></div><div class="sb-scrollbox" style="overflow: hidden; height: 150px;"><ul class="slickselect" style="padding: 0px; margin: 0px;"><li class="sb-option " onclick="javascript:s4.setState('5_75666,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34723</li><li class="sb-option " onclick="javascript:s4.setState('5_75654,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34722</li><li class="sb-option " onclick="javascript:s4.setState('5_75642,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34721</li><li class="sb-option " onclick="javascript:s4.setState('5_75630,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34720</li><li class="sb-option " onclick="javascript:s4.setState('5_75618,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34719</li><li class="sb-option " onclick="javascript:s4.setState('5_75606,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34718</li><li class="sb-option active " onclick="javascript:s4.setState('5_75594,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34717</li><li class="sb-option " onclick="javascript:s4.setState('5_75582,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34716</li><li class="sb-option " onclick="javascript:s4.setState('5_75570,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34715</li><li class="sb-option " onclick="javascript:s4.setState('5_75558,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34714</li><li class="sb-option " onclick="javascript:s4.setState('5_75546,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34713</li><li class="sb-option " onclick="javascript:s4.setState('5_75534,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34712</li><li class="sb-option " onclick="javascript:s4.setState('5_75522,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34711</li><li class="sb-option " onclick="javascript:s4.setState('5_75510,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34710</li><li class="sb-option " onclick="javascript:s4.setState('5_75498,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34709</li><li class="sb-option " onclick="javascript:s4.setState('5_75486,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34708</li><li class="sb-option " onclick="javascript:s4.setState('5_75474,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34707</li><li class="sb-option " onclick="javascript:s4.setState('5_75462,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34706</li><li class="sb-option " onclick="javascript:s4.setState('5_75448,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34705</li><li class="sb-option " onclick="javascript:s4.setState('5_75436,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34704</li><li class="sb-option " onclick="javascript:s4.setState('5_75424,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34703</li><li class="sb-option " onclick="javascript:s4.setState('5_75412,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34702</li><li class="sb-option " onclick="javascript:s4.setState('5_75400,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34701</li><li class="sb-option " onclick="javascript:s4.setState('5_75388,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34700</li><li class="sb-option " onclick="javascript:s4.setState('5_75376,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34699</li><li class="sb-option " onclick="javascript:s4.setState('5_75364,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34698</li><li class="sb-option " onclick="javascript:s4.setState('5_75352,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34697</li><li class="sb-option " onclick="javascript:s4.setState('5_75340,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34696</li><li class="sb-option " onclick="javascript:s4.setState('5_75328,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34695</li><li class="sb-option " onclick="javascript:s4.setState('5_75316,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34694</li><li class="sb-option " onclick="javascript:s4.setState('5_75304,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34693</li><li class="sb-option " onclick="javascript:s4.setState('5_75292,239_null,174_null,231_null,23_null,24_null',true);">Сезон 34692</li></ul></div><div class="scrollbutton down"><span class="arrowdown"><span class="hide">down</span></span></div></div></div></div>
+</div></div><div class=""><div class="gismo_invert gismo_left"><div class="table_selector"><div class="tabs navtabs"><ul class="navtabs gismo"><li class="first"><a href="javascript:s4.setState('9_fixtures,231_fixtures',false);"><div class="htab"><span>Календарь игр</span></div></a></li><li class="active"><a href="javascript:s4.setState('9_fixtures,231_full',false);"><div class="htab"><span>Полный список</span></div></a></li><li class="followingSelected last"><a href="javascript:s4.setState('9_fixtures,231_matrix',false);"><div class="htab"><span>Все результаты</span></div></a></li></ul></div></div></div>
+</div><div class="Hr"><div class="horizontal_ruler"></div></div></div><div class="view"><div class="view"><div class=""><div class="oneliner"><div class="table_selector"><div class="tabs navtabs"><ul class="navtabs gismo"><li class="active first"><a href="javascript:s4.setState('23_1',false);"><div class="htab"><span>круг за кругом</span></div></a></li><li class="followingSelected"><a href="javascript:s4.setState('23_2',false);"><div class="htab"><span>еженедельно</span></div></a></li><li class="last"><a href="javascript:s4.setState('23_3',false);"><div class="htab"><span>Месяц</span></div></a></li></ul></div></div></div>
+</div></div></div><div class="view"><div class="couch_fixtures"><h2 class="title">Раунд 1</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739192, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739194, '')">
+        <span class="teams">
+        <span class="home">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739202, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739196, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739200, '')">
+        <span class="teams">
+        <span class="home">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739198, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739204, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739206, '')">
+        <span class="teams">
+        <span class="home">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 2</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:52</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739208, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:52</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739210, '')">
+        <span class="teams">
+        <span class="home">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:52</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739218, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:52</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739212, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:52</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739216, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:52</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739214, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:52</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739220, '')">
+        <span class="teams">
+        <span class="home">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:3
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:52</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739222, '')">
+        <span class="teams">
+        <span class="home">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 3</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739224, '')">
+        <span class="teams">
+        <span class="home">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739226, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739234, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739228, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+3:0
+</td>
+
+<td class="nt ftx">
+5:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739232, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:1
+</td>
+
+<td class="nt ftx">
+4:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739230, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 22:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739236, '')">
+        <span class="teams">
+        <span class="home">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:4
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 22:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739238, '')">
+        <span class="teams">
+        <span class="home">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:3
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 4</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:01</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739240, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:01</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739242, '')">
+        <span class="teams">
+        <span class="home">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:01</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739250, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+4:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:01</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739244, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:01</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739248, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:01</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739246, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:01</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739252, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:01</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739254, '')">
+        <span class="teams">
+        <span class="home">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 5</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739256, '')">
+        <span class="teams">
+        <span class="home">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739258, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739266, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739260, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739264, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739262, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739268, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739270, '')">
+        <span class="teams">
+        <span class="home">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+2:3
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 6</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739272, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739274, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:3
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739282, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+3:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739276, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+3:1
+</td>
+
+<td class="nt ftx">
+4:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739280, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+3:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739278, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739284, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739286, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+3:0
+</td>
+
+<td class="nt ftx">
+5:1
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 7</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:15</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739288, '')">
+        <span class="teams">
+        <span class="home">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:15</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739290, '')">
+        <span class="teams">
+        <span class="home">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:15</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739298, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:15</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739292, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:15</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739296, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:15</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739294, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+4:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:15</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739300, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:15</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739302, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 8</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739304, '')">
+        <span class="teams">
+        <span class="home">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739306, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739314, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739308, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739312, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739318, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739316, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+4:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739310, '')">
+        <span class="teams">
+        <span class="home">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 9</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:24</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739320, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:24</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739322, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:24</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739330, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:2
+</td>
+
+<td class="nt ftx">
+1:5
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:24</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739324, '')">
+        <span class="teams">
+        <span class="home">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:24</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739328, '')">
+        <span class="teams">
+        <span class="home">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:2
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:24</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739326, '')">
+        <span class="teams">
+        <span class="home">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:2
+</td>
+
+<td class="nt ftx">
+2:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:24</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739332, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+3:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:24</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739334, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+3:0
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 10</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739336, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739338, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739346, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+0:4
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739340, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739344, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+3:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739342, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+4:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739348, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739350, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 11</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:33</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739352, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:33</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739354, '')">
+        <span class="teams">
+        <span class="home">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:33</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739362, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:33</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739356, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:33</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739360, '')">
+        <span class="teams">
+        <span class="home">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:33</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739358, '')">
+        <span class="teams">
+        <span class="home">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:33</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739364, '')">
+        <span class="teams">
+        <span class="home">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:33</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739366, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+3:1
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 12</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739368, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+4:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739370, '')">
+        <span class="teams">
+        <span class="home">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739378, '')">
+        <span class="teams">
+        <span class="home">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739372, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739376, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739382, '')">
+        <span class="teams">
+        <span class="home">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+3:1
+</td>
+
+<td class="nt ftx">
+3:3
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739380, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:2
+</td>
+
+<td class="nt ftx">
+4:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739374, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 13</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739396, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739392, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+4:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739386, '')">
+        <span class="teams">
+        <span class="home">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739390, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739388, '')">
+        <span class="teams">
+        <span class="home">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739394, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+2:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739398, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739384, '')">
+        <span class="teams">
+        <span class="home">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 14</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739410, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739400, '')">
+        <span class="teams">
+        <span class="home">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739414, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739402, '')">
+        <span class="teams">
+        <span class="home">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739408, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739404, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739412, '')">
+        <span class="teams">
+        <span class="home">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:47</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739406, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+3:2
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 15</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739416, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+3:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739418, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739426, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739420, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739424, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739422, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739428, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+3:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739430, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 16</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739432, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739434, '')">
+        <span class="teams">
+        <span class="home">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739442, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739436, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739440, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739438, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+3:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">10/07/15 23:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739444, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">10/07/15 23:56</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739446, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+3:0
+</td>
+
+<td class="nt ftx">
+4:0
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 17</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739448, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+3:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739450, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+3:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739458, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+0:4
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739452, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739456, '')">
+        <span class="teams">
+        <span class="home">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+2:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739454, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+3:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739460, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+3:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739462, '')">
+        <span class="teams">
+        <span class="home">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 18</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739464, '')">
+        <span class="teams">
+        <span class="home">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739466, '')">
+        <span class="teams">
+        <span class="home">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739474, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739468, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739472, '')">
+        <span class="teams">
+        <span class="home">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739470, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739476, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:05</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739478, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 19</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739480, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739482, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739490, '')">
+        <span class="teams">
+        <span class="home">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739484, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739488, '')">
+        <span class="teams">
+        <span class="home">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739486, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:1
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739492, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:10</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739494, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:3
+</td>
+
+<td class="nt ftx">
+1:4
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 20</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:14</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739496, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:14</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739498, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+5:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:14</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739506, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:14</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739500, '')">
+        <span class="teams">
+        <span class="home">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:14</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739504, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:14</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739502, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:14</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739508, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+4:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:14</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739510, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 21</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739512, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+3:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739514, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+3:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739522, '')">
+        <span class="teams">
+        <span class="home">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739516, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739520, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+2:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739518, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739524, '')">
+        <span class="teams">
+        <span class="home">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:19</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739526, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 22</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:23</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739528, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+3:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:23</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739530, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+2:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:23</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739538, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:23</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739532, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+3:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:23</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739536, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+3:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:23</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739534, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:1
+</td>
+
+<td class="nt ftx">
+4:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:23</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739540, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:23</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739542, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+0:3
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 23</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739544, '')">
+        <span class="teams">
+        <span class="home">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739546, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739554, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739548, '')">
+        <span class="teams">
+        <span class="home">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739552, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739558, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739556, '')">
+        <span class="teams">
+        <span class="home">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:28</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739550, '')">
+        <span class="teams">
+        <span class="home">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 24</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:32</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739560, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:32</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739562, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:32</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739570, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:32</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739564, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:32</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739568, '')">
+        <span class="teams">
+        <span class="home">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:32</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739566, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:32</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739572, '')">
+        <span class="teams">
+        <span class="home">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:2
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:32</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739574, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+3:1
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 25</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739576, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739578, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739586, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739580, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+3:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739584, '')">
+        <span class="teams">
+        <span class="home">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:2
+</td>
+
+<td class="nt ftx">
+3:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739582, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739588, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:3
+</td>
+
+<td class="nt ftx">
+0:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:37</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739590, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 26</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739592, '')">
+        <span class="teams">
+        <span class="home">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739594, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739602, '')">
+        <span class="teams">
+        <span class="home">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:3
+</td>
+
+<td class="nt ftx">
+1:4
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739596, '')">
+        <span class="teams">
+        <span class="home">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739600, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739598, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739604, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+2:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:42</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739606, '')">
+        <span class="teams">
+        <span class="home">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:2
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 27</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:46</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739608, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:46</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739610, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:46</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739618, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:46</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739612, '')">
+        <span class="teams">
+        <span class="home">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:46</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739616, '')">
+        <span class="teams">
+        <span class="home">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:46</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739622, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:46</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739620, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+2:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:46</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739614, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 28</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739636, '')">
+        <span class="teams">
+        <span class="home">
+                    Франция
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739632, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739626, '')">
+        <span class="teams">
+        <span class="home">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739630, '')">
+        <span class="teams">
+        <span class="home">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739628, '')">
+        <span class="teams">
+        <span class="home">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739634, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Россия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739638, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:2
+</td>
+
+<td class="nt ftx">
+2:3
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:51</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739624, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+2:0
+</td>
+
+<td class="nt ftx">
+5:0
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 29</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:55</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739650, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Португалия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+3:0
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:55</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739640, '')">
+        <span class="teams">
+        <span class="home">
+                    Нигерия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Нидерланды
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:55</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739654, '')">
+        <span class="teams">
+        <span class="home">
+                    Беларусь
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Молдова
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:55</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739642, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Испания
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Италия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+3:0
+</td>
+
+<td class="nt ftx">
+4:0
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:55</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739648, '')">
+        <span class="teams">
+        <span class="home">
+                    Бразилия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Аргентина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:55</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739644, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Германия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Англия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:2
+</td>
+
+<td class="nt ftx">
+3:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 00:55</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739652, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Украина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 00:55</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739646, '')">
+        <span class="teams">
+        <span class="home">
+                    Грузия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Пари-Матч
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+2:2
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 class="title">Раунд 30</h2>
+
+
+<table class="normaltable fixtures">
+
+<thead>
+
+<tr class="header0">
+<th class="datetime first">Дата</th>
+<th class="match">матчи</th>
+<th class="p1">П</th>
+<th class="nt last">Р</th>
+</tr>
+
+</thead>
+
+
+
+<tbody>
+
+<tr class="odd">
+
+<td class="datetime">11/07/15 01:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739668, '')">
+        <span class="teams">
+        <span class="home">
+                    Молдова
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Грузия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 01:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739664, '')">
+        <span class="teams">
+        <span class="home">
+                    Италия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Беларусь
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+0:2
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 01:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739658, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Англия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Украина
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 01:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739656, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Аргентина
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Испания
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:0
+</td>
+
+<td class="nt ftx">
+2:1
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 01:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739660, '')">
+        <span class="teams">
+        <span class="home winner">
+                    Россия
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Нигерия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+3:2
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 01:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739666, '')">
+        <span class="teams">
+        <span class="home">
+                    Португалия
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Франция
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+1:1
+</td>
+
+<td class="nt ftx">
+1:3
+</td>
+
+</tr>
+<tr class="odd">
+
+<td class="datetime">11/07/15 01:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739662, '')">
+        <span class="teams">
+        <span class="home">
+                    Пари-Матч
+                </span>
+        <span class="separator">-</span>
+        <span class="away">
+                    Германия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:1
+</td>
+
+</tr>
+<tr class="even">
+
+<td class="datetime">11/07/15 01:00</td>
+<td class="match"><a href="javascript:s4.deeplink('matchid', 1015739670, '')">
+        <span class="teams">
+        <span class="home">
+                    Нидерланды
+                </span>
+        <span class="separator">-</span>
+        <span class="away winner">
+                    Бразилия
+                </span>
+    </span>
+</a>
+</td>
+
+<td class="p1">
+0:1
+</td>
+
+<td class="nt ftx">
+1:5
+</td>
+
+</tr>
+
+</tbody>
+
+</table></div></div></div></div></div><div class="boxfooter"><div></div></div></div></div></div><div class="view"></div><div class="view"><div class="view"></div></div></div><div class="socialmedia"><div id="socialmedia">
+
+
+<div class="clear"></div>
+</div></div></div><div class="template_VBox view clear"></div></div></div>
+    </div>
+	<div id="overlay" style="display: none;"></div>
+	<div id="loader" style="display: none;"><div></div></div>
+	<div id="success"></div>
+	<div id="error"></div>
+	<div id="errortext"></div>
+    <div id="poweredbylogo"></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
